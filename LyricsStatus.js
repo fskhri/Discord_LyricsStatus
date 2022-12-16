@@ -494,8 +494,8 @@ let settings = {
         timestamp: false,
         label: true,
         advanced: {
-            enabled: false,
-            customStatus: "Song lyrics - {lyrics}"
+            enabled: true,
+            customStatus: "[{timestamp}] Song lyrics - {lyrics}"
         }
     },
     timings: {
