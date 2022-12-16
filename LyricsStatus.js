@@ -491,7 +491,7 @@ let settings = {
     token: null,
     autorun: false,
     view: {
-        timestamp: true,
+        timestamp: false,
         label: true,
         advanced: {
             enabled: false,
